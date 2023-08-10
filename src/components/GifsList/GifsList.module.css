@@ -1,0 +1,13 @@
+.gifs{
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 500px;
+    grid-auto-flow: row;
+    align-items: center;
+    justify-items: center;
+    gap: 10px;
+}
+.gif_a{
+    display: block;
+}

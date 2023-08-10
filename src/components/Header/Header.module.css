@@ -1,0 +1,22 @@
+.header{
+    background-color: rgb(24, 24, 98);
+    display: flex;
+    align-items: center;
+    column-gap: 50px;
+    color: white;
+    justify-content: center;
+    font-family: sans-serif;
+}
+.link{
+    display: flex;
+    align-items: center;
+    color: #fff;
+    height: 150px;
+}
+.link>img{
+    height: 70px;
+
+}
+.title{
+    font-size: 50px;
+}
